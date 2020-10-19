@@ -1,0 +1,20 @@
+.calculator{
+  position: relative;
+  width: 300px;
+  height: 600px;
+  background: #FFFFFF;
+  margin:10px 40% 0px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.output{
+
+    font-size: 30px;
+    text-align: right;
+    padding-top: 130px;
+    padding-right: 19px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    }
+
